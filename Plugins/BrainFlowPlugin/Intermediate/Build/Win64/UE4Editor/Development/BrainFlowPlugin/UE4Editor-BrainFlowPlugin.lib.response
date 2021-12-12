@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BrainFlowPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE_4.26\Projects\MyProject5\Intermediate\Build\Win64\MyProject5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE_4.26\Projects\MyProject5\Plugins\BrainFlowPlugin\Intermediate\Build\Win64\UE4Editor\Development\BrainFlowPlugin\BrainFlowPlugin.cpp.obj"
+"D:\UE_4.26\Projects\MyProject5\Plugins\BrainFlowPlugin\Intermediate\Build\Win64\UE4Editor\Development\BrainFlowPlugin\Default.rc2.res"
+/OUT:"D:\UE_4.26\Projects\MyProject5\Plugins\BrainFlowPlugin\Intermediate\Build\Win64\UE4Editor\Development\BrainFlowPlugin\UE4Editor-BrainFlowPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_BrainFlowPlugin
